@@ -1,2 +1,4 @@
 # Multimodal
 Multimodal Data Generation
+
+Here, we adopted the Delaunay Triangulation (DT) as a technique to obtain high-resolution maps. DT generates a mesh from the projected sparse depth points on the camera coordinate system. The nearest neighbors were used to interpolate the unsampled locations of the map. The dense maps are obtained solely from LIDAR data thus, data (color or texture) from the camera is not used in the maps. Besides the depth map (DM), a dense reﬂectance map (RM) is also considered in the vehicle detection system. In the case of DM, the variable to be interpolated is the range (distance), while the reﬂectance value (reﬂection return) is the variable to be interpolated to generate the RM. The reﬂectivity attribute is related to the type of surface the LIDAR reﬂection is obtained.
