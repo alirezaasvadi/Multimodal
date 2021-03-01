@@ -1,7 +1,7 @@
 # Multimodal Object Detection
 
 
-![snip_20180810175041](https://user-images.githubusercontent.com/5465785/43970575-f4653dd0-9cc5-11e8-8fab-b436761aad2e.png)
+![snip](https://github.com/alirezaasvadi/M2OD/blob/master/Screenshot%20from%202021-03-01%2013-14-31.png)
 
 The algorithm is described in:
 
